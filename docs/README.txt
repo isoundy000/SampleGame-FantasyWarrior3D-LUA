@@ -1,4 +1,4 @@
-========= Staff needed: ==========
+==================================== Staff needed: ==========================================
 You can download all needed software from http://drive.google.com/drive/folders/0B2hijk20FPcdSDFrMEszQlZJX1k
 
 Visual Studio 2012/2013 
@@ -20,6 +20,7 @@ android-ndk-r10c https://dl.google.com/android/ndk/android-ndk-r10c-windows-x86_
 
 Cocos2d-x-3.4 http://www.cocos2d-x.org/filedown/cocos2d-x-3.4.zip
 
+======================================= MANUAL ============================================== 
 0) Unzip Cocos2d-x-3.4.zip to '.\frameworks\cocos2d-x'
 1) Open '.\frameworks\runtime-src\proj.win32\FantasyWarrior3D.sln' with Visual Studio 2012/2013 and build it. 
 More new Visual Studio is not supported. Because for this task needed v120 toolset.
