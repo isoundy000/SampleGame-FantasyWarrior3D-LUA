@@ -1,19 +1,14 @@
 FantasyWarrior3D
 ================
 
+FantasyWarrior is a showcase project using Cocos2d-x 3.4
+
 ## Staff needed:
-*Visual Studio 2012/2013 
-
-*Cocos Code IDE Build:V1.2.0
-http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.2.0.exe
-http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.2.0.exe
-http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.2.0.dmg
-
-*Python 2.7.5 https://www.python.org/ftp/python/2.7.5/python-2.7.5.amd64.msi
-
-*android-ndk-r10c https://dl.google.com/android/ndk/android-ndk-r10c-windows-x86_64.exe
-
-*Cocos2d-x-3.4 http://www.cocos2d-x.org/filedown/cocos2d-x-3.4.zip
+* Visual Studio 2012/2013 
+* Cocos Code IDE Build:V1.2.0 (http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.2.0.exe, http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.2.0.exe,http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.2.0.dmg)
+* Python 2.7.5 https://www.python.org/ftp/python/2.7.5/python-2.7.5.amd64.msi
+* android-ndk-r10c https://dl.google.com/android/ndk/android-ndk-r10c-windows-x86_64.exe
+* Cocos2d-x-3.4 http://www.cocos2d-x.org/filedown/cocos2d-x-3.4.zip
 
 ## BUILD MANUAL
 0) Unzip Cocos2d-x-3.4.zip to 'FantasyWarrior3D\frameworks\cocos2d-x'
