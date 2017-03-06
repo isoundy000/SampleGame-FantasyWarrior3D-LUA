@@ -14,8 +14,9 @@ FantasyWarrior is a showcase project using Cocos2d-x 3.4
 * Unzip Cocos2d-x-3.4.zip to `FantasyWarrior3D\frameworks\cocos2d-x`
 * Open `FantasyWarrior3D\frameworks\runtime-src\proj.win32\FantasyWarrior3D.sln` with Visual Studio 2012/2013 and build it. 
 `!!!WARNING!!! Requires Visual Studio 2012 or 2013. Because for this task required v120 toolset that is not included in more newer versions.` 
-* Open CocosCode IDE v1.2.0 and Import `FantasyWarrior3D` root folder.
+* Open CocosCode IDE v1.2.0 and Import `FantasyWarrior3D` root folder. Configure follow `docs` and run.
 
-P.S.: http://discuss.cocos2d-x.org/t/direct-download-link-for-cocos-code-ide/23227
-You can download all needed software from http://drive.google.com/drive/folders/0B2hijk20FPcdSDFrMEszQlZJX1k
+P.S.: 
+* http://discuss.cocos2d-x.org/t/direct-download-link-for-cocos-code-ide/23227
+* You can download all needed software from http://drive.google.com/drive/folders/0B2hijk20FPcdSDFrMEszQlZJX1k
 
