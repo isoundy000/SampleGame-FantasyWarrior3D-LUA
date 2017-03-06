@@ -1,69 +1,26 @@
 FantasyWarrior3D
 ================
 
-FantasyWarrior is a showcase project using Cocos2d-x 3.4
+## Staff needed:
+*Visual Studio 2012/2013 
 
-Cocos2d-x Features used in this project
-* Sprite3D
-* Animation3D
-* Mesh
-* Billboard
-* Camera
-* Light
-* New audio engine
+*Cocos Code IDE Build:V1.2.0
+http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.2.0.exe
+http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.2.0.exe
+http://www.cocos2d-x.org/filedown/cocos-code-ide-mac64-1.2.0.dmg
 
-The code of this project and Cocos2d-x are all licensed under MIT
+*Python 2.7.5 https://www.python.org/ftp/python/2.7.5/python-2.7.5.amd64.msi
 
-BGMs are copyrighted by Matthew Pablo, and licensed under CC-BY 3.0
+*android-ndk-r10c https://dl.google.com/android/ndk/android-ndk-r10c-windows-x86_64.exe
 
-You may not use any art including 2d and 3d from this project for commercial purpose
+*Cocos2d-x-3.4 http://www.cocos2d-x.org/filedown/cocos2d-x-3.4.zip
 
-##Git user attention
+## BUILD MANUAL
+0) Unzip Cocos2d-x-3.4.zip to 'FantasyWarrior3D\frameworks\cocos2d-x'
+1) Open 'FantasyWarrior3D\frameworks\runtime-src\proj.win32\FantasyWarrior3D.sln' with Visual Studio 2012/2013 and build it. 
+More new Visual Studio is not supported. Because for this task needed v120 toolset.
+2) From CocosCode IDE import 'FantasyWarrior3D' root folder.
 
-1.Clone the repo from Github
+P.S.: http://discuss.cocos2d-x.org/t/direct-download-link-for-cocos-code-ide/23227
+You can download all needed software from http://drive.google.com/drive/folders/0B2hijk20FPcdSDFrMEszQlZJX1k
 
-```
-$ git clone https://github.com/chukong/FantasyWarrior3D.git
-```
-
-2.Update the submodule of FantasyWarrior3D
-
-```
-$ git submodule update --init
-```
-3.Update the submodule of Cocos2d-x
-
-```
-$ cd frameworks/cocos2d-x
-$ git submodule update --init
-```
-
-4.After cloning the repo, please execute `download-deps.py` to download and install dependencies
-
-```
-$ cd frameworks/cocos2d-x
-$ python download-deps.py
-```
-
-
-##Platform support
-This projetc supports 3 platforms: win32, ios_mac and Android.
-
-###ios_mac runtime
-Path:
-`FantasyWarrior3D/frameworks/runtime-src/proj.ios_mac/FantasyWarrior3D.xcodeproj`.
-
-###win32 runtime
-Path: `FantasyWarrior3D/frameworks/runtime-src/proj.win32/FantasyWarrior3D.sln`.
->Requires Visual Studio 2012 and above.
-
-###android runtime
-Path: `FantasyWarrior3D/frameworks/runtime-src/proj.android`.
-
-##Credits
-* Game Effects: Wu Hao
-* Game Logic: Fu Sijie
-* Game Logic: Li Jun
-* Game Logic: Gao Huang
-* Game UI & Sound Man: Rao Zijian
-* 3D technical support: Liu Liang, Hou Yingtao, Lv long, Nite, etc
