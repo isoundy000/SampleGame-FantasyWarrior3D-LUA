@@ -10,7 +10,7 @@ FantasyWarrior is a showcase project using Cocos2d-x 3.4
 * android-ndk-r10c https://dl.google.com/android/ndk/android-ndk-r10c-windows-x86_64.exe
 * Cocos2d-x-3.4 http://www.cocos2d-x.org/filedown/cocos2d-x-3.4.zip
 
-###win32 runtime
+### win32 runtime
 * Unzip Cocos2d-x-3.4.zip to `FantasyWarrior3D\frameworks\cocos2d-x`
 * Open `FantasyWarrior3D\frameworks\runtime-src\proj.win32\FantasyWarrior3D.sln` with Visual Studio 2012/2013 and build it. 
 `!!!WARNING!!! Requires Visual Studio 2012 or 2013. Because for this task required v120 toolset that is not included in more newer versions.` 
