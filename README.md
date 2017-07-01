@@ -29,4 +29,5 @@ P.S.:
 * Clone https://github.com/dsserega/SampleGame-FantasyWarrior3D-LUA.git and run DOWNLOAD.bat.
 * Open `FantasyWarrior3D\frameworks\runtime-src\proj.win32\FantasyWarrior3D.sln` with Visual Studio 2012/2013 and build it. 
 `!!!WARNING!!! Requires Visual Studio 2012 or 2013. Because for this task required v120 toolset that is not included in more newer versions.` 
-* Open CocosCode IDE v1.2.0 and Import `FantasyWarrior3D` root folder. Configure following `docs` and run.
+* Open [CocosCode IDE v1.2.0 (x64)](http://www.cocos2d-x.org/filedown/cocos-code-ide-win64-1.2.0.exe) or [CocosCode IDE v1.2.0 (x32)](http://www.cocos2d-x.org/filedown/cocos-code-ide-win32-1.2.0.exe) and import `FantasyWarrior3D` project(Files->Import  select `FantasyWarrior3D` root folder). After that follow screenshots from `docs` folder configuring and run project.
+
